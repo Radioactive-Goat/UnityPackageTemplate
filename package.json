@@ -1,0 +1,17 @@
+{
+  "name": "com.radioactivegoat.<REPLACE_NAME_LOWER>",
+  "version": "0.0.1",
+  "displayName": "RG.<REPLACE_NAME>",
+  "description": "<REPLACE_DESC>",
+  "unity": "6000.0",
+  "documentationUrl": "https://github.com/Radioactive-Goat/RG.<REPLACE_NAME>/wiki",
+  "licensesUrl": "https://raw.githubusercontent.com/Radioactive-Goat/RG.<REPLACE_NAME>/master/LICENSE",
+  "keywords": [
+  ],
+  "author": {
+    "name": "Radioactive Goat",
+    "email": "radioactivegoatstudios@gmail.com",
+    "url": "https://radioactivegoat.github.io"
+  },
+  "unityRelease": "25f1"
+}
